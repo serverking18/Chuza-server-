@@ -321,60 +321,60 @@ h4{
   <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
    <h1>➤ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴏᴡɴᴇʀ꧂</h1>
 <br />
-<button class="button-34" role="button" onclick="window.location.href='https://wa.me/+923417885339'">⊲ CONTACT ⊳</button>
+<button class="button-34" role="button" onclick="window.location.href='https://wa.me/+923119103657>⊲ CONTACT ⊳</button>
     <br />
     <br />
         <div class="image-containe">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ MULTY TOKEN + SINGLE TOKEN CONVO SERVER FOR INBOX/GROUP CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://web-production-fe6b.up.railway.app/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ SINGLE TOKEN CONVO SERVER WITH LOG METHOD FOR INBOX/GROUP CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://web-production-1fa46.up.railway.app/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
     <br />
     <br />
             <div class="imager">
- <img src="https://i.ibb.co/TBNG52J/20241001-011820.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
     <h1>➤ MULTY POST LOADER PAGE ID + SIMPLE ID + ANTHER IDZ COOKIES SERVER CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://web-production-3f71.up.railway.app/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ SINGLE COOKIE POST LOADER FOR POST FYT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂ </h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://web-production-62c0.up.railway.app/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
     <br />
     <br />
            <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ TOKEN CHECKER TOOL FOR CHECKING YOUR TOKEN IS VALID OR INVAILD CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://web-production-c6a1.up.railway.app/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
     <br />
     <br />
           <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ MULTY WEB TO WEB MSG SEND TOOL FOR INBOX/GROUP CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://github.com/HassanRajput0/Multy-web-to-web/blob/main/README.md'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://github.com/serverking18/Chuza-server-'">⊲ CHECK ⊳</button>
     <br />
     <br />
           <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
      <h1>➤ WHATSAPP LOADER TOOL FOR INBOX CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://github.com/HassanRajput0/wp-loader/blob/main/README.md'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://github.com/serverking18/Chuza-server-'">⊲ CHECK ⊳</button>
     <br />
     <br />
        <div class="imager">
- <img src="https://i.ibb.co/NNqfqDJ/20241001-013111.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ ALL WEB TO WEB TOOLS + ALL TERMUX TOOLS K LIYA UPER 3 DOT PY CLICK KARO꧂</h1>
  <br />
     <br />
@@ -390,7 +390,7 @@ h4{
       <div id="links" class="flex space-x-4">
         <a href="https://www.facebook.com/g.rlfrie.dto.kam.y.bhi.b.aty.ha.779049" class="text-2xl hover:text-primary"><i class="fab fa-facebook"></i></a>
         <a href="https://wa.me/+923119103657" class="text-2xl hover:text-primary"><i class="fab fa-whatsapp"></i></a>
-        <a href="https://github.com/" class="text-2xl hover:text-primary"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/serverking18/Chuza-server-" class="text-2xl hover:text-primary"><i class="fab fa-github"></i></a>
       </div>
       
       <div class="mt-4 md:mt-0 text-center">
