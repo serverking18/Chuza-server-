@@ -300,13 +300,13 @@ h4{
             <div class="text-2xl text-primary">𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐋𝐀𝐏 𝐁𝐑𝐀𝐍𝐃♚</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href="https://github.com/serverking18/Chuza-server-">WEB TO WEB SINGLE</a ></li>
-                                <li><a href="https://github.com/serverking18/Chuza-server-">WEB TO WEB STICKER</a></li>
-                <li><a href="https://github.com/serverking18/Chuza-server-">MULTY COOKIE PAGE+SIMPLE ID POST</a></li>
+                <li><a href="">WEB TO WEB SINGLE</a ></li>
+                                <li><a href>WEB TO WEB STICKER</a></li>
+                <li><a href=>MULTY COOKIE PAGE+SIMPLE ID POST</a></li>
                 
-                    <li><a href="https://github.com/HassanRajput0/MULTY-CONVO/blob/main/README.md">MULTY TOKEN CONVO</a></li>
-                                        <li><a href="https://github.com/serverking18/Chuza-server-">AUTO POST SHARE + MULTY POST</a></li>
-                <li><a href="https://github.com/serverking18/Chuza-server-">POST BOOKMARK TOOL </a></li>
+                    <li><a href="">MULTY TOKEN CONVO</a></li>
+                                        <li><a href="">AUTO POST SHARE + MULTY POST</a></li>
+                <li><a href="">POST BOOKMARK TOOL </a></li>
                 </li>
                 <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
             </span>
@@ -321,56 +321,56 @@ h4{
   <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
    <h1>➤ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴏᴡɴᴇʀ꧂</h1>
 <br />
-<button class="button-34" role="button" onclick="window.location.href='https://wa.me/+923119103657>⊲ CONTACT ⊳</button>
+<button class="button-34" role="button" onclick=wp 03119103657>⊲ CONTACT ⊳</button>
     <br />
     <br />
         <div class="image-containe">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ MULTY TOKEN + SINGLE TOKEN CONVO SERVER FOR INBOX/GROUP CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick=>⊲ CHECK ⊳</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ SINGLE TOKEN CONVO SERVER WITH LOG METHOD FOR INBOX/GROUP CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href="https://ninelp-x-d3v3l.onrender.com/">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick>⊲ CHECK ⊳</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
     <h1>➤ MULTY POST LOADER PAGE ID + SIMPLE ID + ANTHER IDZ COOKIES SERVER CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick=>⊲ CHECK ⊳</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ SINGLE COOKIE POST LOADER FOR POST FYT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂ </h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick >⊲ CHECK ⊳</button>
     <br />
     <br />
            <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ TOKEN CHECKER TOOL FOR CHECKING YOUR TOKEN IS VALID OR INVAILD CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='http://fi7.bot-hosting.net:20383/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href>⊲ CHECK ⊳</button>
     <br />
     <br />
           <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
  <h1>➤ MULTY WEB TO WEB MSG SEND TOOL FOR INBOX/GROUP CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://github.com/serverking18/Chuza-server-'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.>⊲ CHECK ⊳</button>
     <br />
     <br />
           <div class="imager">
  <img src="https://i.ibb.co/6RygLFnb/Screenshot-20251015-134407-1.jpg" alt="Image" class="image">
      <h1>➤ WHATSAPP LOADER TOOL FOR INBOX CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://github.com/serverking18/Chuza-server-'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick=>⊲ CHECK ⊳</button>
     <br />
     <br />
        <div class="imager">
@@ -390,7 +390,7 @@ h4{
       <div id="links" class="flex space-x-4">
         <a href="https://www.facebook.com/g.rlfrie.dto.kam.y.bhi.b.aty.ha.779049" class="text-2xl hover:text-primary"><i class="fab fa-facebook"></i></a>
         <a href="https://wa.me/+923119103657" class="text-2xl hover:text-primary"><i class="fab fa-whatsapp"></i></a>
-        <a href="https://github.com/serverking18/Chuza-server-" class="text-2xl hover:text-primary"><i class="fab fa-github"></i></a>
+        <a href="" class="text-2xl hover:text-primary"><i class="fab fa-github"></i></a>
       </div>
       
       <div class="mt-4 md:mt-0 text-center">
